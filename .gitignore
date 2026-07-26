@@ -1,0 +1,8 @@
+# This repo holds documentation and GitHub Releases only -- no app source, no
+# model binaries in-tree (the model ships as a release asset).
+*.apk
+*.tflite
+*.onnx
+*.pt
+.DS_Store
+Thumbs.db
